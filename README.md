@@ -6,7 +6,6 @@ Script Python permettant d'analyser des données météo via API, afin d’éval
 ## Technologies utilisées
 - Python
 - Requests
-- BeautifulSoup
 - API Openweather
 
 ## Fonctionnalités
