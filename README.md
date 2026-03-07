@@ -1,21 +1,21 @@
 # Analyse météo pour le parapente
 
-## 📌 Description
+## Description
 Script Python permettant d'analyser des données météo via API, afin d’évaluer les conditions favorables au parapente.
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 - Python
 - Requests
 - BeautifulSoup
 - API Openweather
 
-## ⚙️ Fonctionnalités
+## Fonctionnalités
 - Récupération des données météo
 - Analyse automatique
 - Affichage des conditions favorables
 
-## 🚀 Installation
+## Installation
 pip install -r requirements.txt
 
-## ▶️ Lancer le projet
+## Lancer le projet
 python main.py
