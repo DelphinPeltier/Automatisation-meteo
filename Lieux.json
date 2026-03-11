@@ -1,0 +1,52 @@
+[
+  {
+    "nom": "Col de la Forclaz",
+    "ville": "Talloires",
+    "sens_vent": "nord"
+  },
+  {
+    "nom": "Saint-Hilaire du Touvet",
+    "ville": "Saint-Hilaire-du-Touvet",
+    "sens_vent": "nord-ouest"
+  },
+  {
+    "nom": "Chabre",
+    "ville": "Laragne-Montéglin",
+    "sens_vent": "nord"
+  },
+  {
+    "nom": "Gréolières",
+    "ville": "Gréolières",
+    "sens_vent": "est"
+  },
+  {
+    "nom": "Planfait",
+    "ville": "Bluffy",
+    "sens_vent": "nord-ouest"
+  },
+  {
+    "nom": "Millau",
+    "ville": "Millau",
+    "sens_vent": "nord-ouest"
+  },
+  {
+    "nom": "Pic Saint-Loup",
+    "ville": "Saint-Martin-de-Londres",
+    "sens_vent": "nord"
+  },
+  {
+    "nom": "Puy de Dôme",
+    "ville": "Orcines",
+    "sens_vent": "nord-est"
+  },
+  {
+    "nom": "Doussard",
+    "ville": "Doussard",
+    "sens_vent": "sud"
+  },
+  {
+    "nom": "Col d'Ornon",
+    "ville": "Ornon",
+    "sens_vent": "sud-ouest"
+  }
+]
