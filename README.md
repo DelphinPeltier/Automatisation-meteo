@@ -34,7 +34,7 @@ X Aucun créneau
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### API WeatherAPI
 
